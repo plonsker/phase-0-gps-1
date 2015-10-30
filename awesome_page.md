@@ -22,4 +22,4 @@ pairing
 ```
 
 
-WHAT IS GOING DOWN  this is us working ![JM Pair screenshot](JM-pair.pnggit commit -m "")
+WHAT IS GOING DOWN  this is us working ![JM Pair screenshot](JM-pair.png)
