@@ -8,3 +8,17 @@ git commit -m "Create awesome file" - Saves version of the file as it currently 
 git push origin master - pushes all commits to the original repository on the master branch 
 git checkout -b "add-command-log" - creates new feature branch 
 subl readme.md - opens file in text editor
+
+*CHANGEEEEEEESSSSS* **CCHHAA CHHA CHHAAANNGGGEESSSSS**.
+
+TURN TO FACE THE STRange [CHACHACHACHACHANGES](https://www.youtube.com/watch?v=pl3vxEudif8)
+
+```
+def pairing
+  puts pairing is awesome
+end
+
+pairing
+```
+
+Hey this is us working ![JM Pair screenshot](JM-pair.png)
