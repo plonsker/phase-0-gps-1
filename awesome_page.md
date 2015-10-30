@@ -21,4 +21,4 @@ end
 pairing
 ```
 
-Hey this is us working ![JM Pair screenshot](JM-pair.png)
+WAHT BE GOING DOWN  this is us working ![JM Pair screenshot](JM-pair.pnggit commit -m "")
