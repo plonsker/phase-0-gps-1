@@ -15,7 +15,7 @@ TURN TO FACE THE STRange [CHACHACHACHACHANGES](https://www.youtube.com/watch?v=p
 
 ```
 def pairing
-  puts pairing is awesome
+  puts "pairing is awesome"
 end
 
 pairing
